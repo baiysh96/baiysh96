@@ -36,4 +36,4 @@ Technologies:
 Connect with me:
 
 * baiyshdykanov6@gmail.com
-* t.me/Baiysh
+* t.me/Dev_bai
